@@ -8,10 +8,10 @@
 
 ## Team Members  
 
-1. [Shubham Sinha](https://github.com/shubhamsinha0001) (add the link to their GitHub profile)
-2. [Sitanshu Tripathi](https://github.com/sitanshu-cse10) (add the link to their GitHub profile)
-3. [Shobhit Dixit](https://github.com/shobhit00dixit) (add the link to their GitHub profile)
-4. [Vivek Vikram Singh](https://github.com/vivek-777) (add the link to their GitHub profile)
+1. [Shubham Sinha](https://github.com/shubhamsinha0001) 
+2. [Sitanshu Tripathi](https://github.com/sitanshu-cse10) 
+3. [Shobhit Dixit](https://github.com/shobhit00dixit)
+4. [Vivek Vikram Singh](https://github.com/vivek-777) 
 
 
 #### REASON FOR SELECTING THE TOPIC
