@@ -8,18 +8,20 @@
 
 ## Team Members  
 
-1. [Team Member 1](https://github.com/shubhamsinha0001) (add the link to their GitHub profile)
-2. [Team Member 2](https://github.com/sitanshu-cse10) (add the link to their GitHub profile)
-3. [Team Member 3](https://github.com/shobhit00dixit) (add the link to their GitHub profile)
-4. [Team Member 4](https://github.com/vivek-777) (add the link to their GitHub profile)
+1. [Shubham Sinha](https://github.com/shubhamsinha0001) (add the link to their GitHub profile)
+2. [Sitanshu Tripathi](https://github.com/sitanshu-cse10) (add the link to their GitHub profile)
+3. [Shobhit Dixit](https://github.com/shobhit00dixit) (add the link to their GitHub profile)
+4. [Vivek Vikram Singh](https://github.com/vivek-777) (add the link to their GitHub profile)
 
 
 #### REASON FOR SELECTING THE TOPIC
 
 ```
-Problems faced by any company or institute during conducting their online examination that whether valid candidate or not. Our system  will provide them a solution to validate that whether a valid candidate is giving the examination or not, it will authenticate that only valid candidate can give the examination.
+Problems faced by any company or institute during conducting their online examination that whether valid candidate or not. 
+Our system  will provide them a solution to validate that whether a valid candidate is giving the examination or not, it will authenticate that only valid candidate can give the examination.
 
-Facial expressions and related changes in facial patterns give us information about the emotional state of the person and help to regulate conversations with the person. Moreover, these expressions help in understanding the overall mood of the person in a better way.
+Facial expressions and related changes in facial patterns give us information about the emotional state of the person and help to regulate conversations with the person. 
+Moreover, these expressions help in understanding the overall mood of the person in a better way.
 
 ```
 
@@ -28,11 +30,15 @@ ___
 #### OBJECTIVES OF THE PROJECT
 
 ```
-Human Face expression Recognition is one of the most powerful and challenging tasks in social communication. Generally, facial expressions are natural and direct means for human beings to communicate their emotions and intentions. Face expressions are the key characteristics of non-verbal communication.
+Human Face expression Recognition is one of the most powerful and challenging tasks in social communication. Generally, facial expressions are natural and direct means for human beings to communicate their emotions and intentions. 
+Face expressions are the key characteristics of non-verbal communication.
 
-Facial image based mood detection techniques may provide a fast and practical approach for non-invasive mood detection. This project is based on Face Expression Recognition (FER) techniques which include the three major stages such as pre-processing, feature extraction and classification. The purpose of the project is to develop an intelligent system for facial image based expression classification using neural networks.
+Facial image based mood detection techniques may provide a fast and practical approach for non-invasive mood detection. 
+This project is based on Face Expression Recognition (FER) techniques which include the three major stages such as pre-processing, feature extraction and classification. 
+The purpose of the project is to develop an intelligent system for facial image based expression classification using neural networks.
 
-Facial expressions and related changes in facial patterns give us information about the emotional state of the person and help to regulate conversations with the person. Moreover, these expressions help in understanding the overall mood of the person in a better way.
+Facial expressions and related changes in facial patterns give us information about the emotional state of the person and help to regulate conversations with the person. 
+Moreover, these expressions help in understanding the overall mood of the person in a better way.
 
 Our second objective of the project is to provide valid user authentication to an online test conducted by several platforms like AMCAT, CO-CUBES in this we will authenticate that whether the valid candidate is giving the paper or not.
 
@@ -44,13 +50,19 @@ ___
 #### LITERATURE SURVEY / FEASIBILITY STUDY
 
 ```
-Facial expressions play an important role in human interactions and non-verbal communication. Classification of facial expressions could be used as an effective tool in behavioral studies and in medical rehabilitation. Facial expression analysis deals with visually recognizing and analyzing different facial motions and facial feature changes.
+Facial expressions play an important role in human interactions and non-verbal communication. 
+Classification of facial expressions could be used as an effective tool in behavioral studies and in medical rehabilitation. Facial expression analysis deals with visually recognizing and analyzing different facial motions and facial feature changes.
 
-Numerous investigators have used neural networks for facial expression classification. The performance of a neural network depends on several factors including the initial random weights, the training data, the activation function used, and the structure of the network including the number of hidden layer neurons.
+Numerous investigators have used neural networks for facial expression classification. 
+The performance of a neural network depends on several factors including the initial random weights, the training data, the activation function used, and the structure of the network including the number of hidden layer neurons.
 
-A smile on human face shows their happiness and it expresses an eye with a curved shape. The sad expression is the feeling of looseness which is normally expressed as rising skewed eyebrows and frown. The anger on a human face is related to unpleasant and irritating conditions. The expression of anger is expressed with squeezed eyebrows, slender and stretched eyelids. The disgust expressions are expressed with pull down eyebrows and creased nose. The surprise or shock expression is expressed when some unpredicted happens. This is expressed with eye-widening and mouth gaping and this expression is an easily identified one. The expression of fear is related with surprise expression which is expressed as growing skewed eyebrows.
+A smile on human face shows their happiness and it expresses an eye with a curved shape. 
+The sad expression is the feeling of looseness which is normally expressed as rising skewed eyebrows and frown. The anger on a human face is related to unpleasant and irritating conditions. The expression of anger is expressed with squeezed eyebrows, slender and stretched eyelids. 
+The disgust expressions are expressed with pull down eyebrows and creased nose. The surprise or shock expression is expressed when some unpredicted happens. 
+This is expressed with eye-widening and mouth gaping and this expression is an easily identified one. The expression of fear is related with surprise expression which is expressed as growing skewed eyebrows.
 
-FER has an important stage is feature extraction and classification. Feature extraction includes two types and they are geometric based and appearance based. The classification is also one of the important processes in which the above-mentioned expressions such as smile, sad, anger, disgust, surprise, and fear are categorized. The geometrically based feature extraction comprises eye, mouth, nose, eyebrow, other facial components and the appearance based feature extraction comprises the exact section of the face
+FER has an important stage is feature extraction and classification. Feature extraction includes two types and they are geometric based and appearance based. 
+The classification is also one of the important processes in which the above-mentioned expressions such as smile, sad, anger, disgust, surprise, and fear are categorized. The geometrically based feature extraction comprises eye, mouth, nose, eyebrow, other facial components and the appearance based feature extraction comprises the exact section of the face
 
 Two types of parameters were extracted from the facial image: real-valued and binary. A total of 15 parameters consisting of eight real-valued parameters and seven binary parameters were extracted from each facial image. The real-valued parameters were normalized. Generalized neural networks were trained with all fifteen parameters as inputs. There were seven output nodes corresponding to the five facial expressions (neutral, angry, happy, sad and surprised).
 
