@@ -1,0 +1,4 @@
+database = amcat_security;
+user = root
+password = yast_tripathi10597@
+default-character-set = utf8
