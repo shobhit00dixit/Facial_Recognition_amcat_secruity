@@ -140,3 +140,24 @@ Several (105) generalized neural networks (with different initial weights, struc
 ```
 
 ___  
+#### MOCKUPS
+
+##### MAIN_PAGE
+      ![ main_page ](./Mockup/1_MAIN PAGE.png)
+
+
+##### REGISTER_PAGE
+      ![ register_page ](./Mockup/2_REGISTER.png)
+      
+##### LOGIN_PAGE
+      ![ login_page ](./Mockup/3_LOGIN.png)
+      
+
+##### SUCCESSFUL_PAGE
+      ![ successful_registeration/login_page ](./Mockup/4_Successful.png)
+      
+
+
+
+
+
