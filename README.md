@@ -144,7 +144,7 @@ ___
 
 ##### MAIN_PAGE
 
-![ main_page ](./Mockup/1_MAINPAGE.png)
+![ main_page ](https://github.com/sitanshu-cse10/Facial_Recognition_amcat_secruity/blob/master/Mockup/1_MAIN%20PAGE.png)
 
 
 ##### REGISTER_PAGE
