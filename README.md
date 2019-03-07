@@ -1,4 +1,4 @@
-![gla university logo](/logo.png)
+![gla university logo](./logo.png)
 
 # GLA University Mathura, 2019  
 
