@@ -144,7 +144,7 @@ ___
 
 ##### MAIN_PAGE
 
-![ main_page ](./Mockup/1_MAIN PAGE.png)
+![ main_page ](./Mockup/1_MAINPAGE.png)
 
 
 ##### REGISTER_PAGE
