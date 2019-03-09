@@ -77,13 +77,13 @@ WSGI_APPLICATION = 'amcat_security.wsgi.application'
 DATABASES = {
     'default': {
         #For using mysql
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME':'amcat_security',
-        'USER':'root',
-        'PASSWORD':'yashtripathi774',
+        #'ENGINE': 'django.db.backends.mysql',
+        #'NAME':'amcat_security',
+        #'USER':'root',
+        #'PASSWORD':'yashtripathi774',
         #Using Django Mysqlite...
-        #'ENGINE': 'django.db.backends.sqlite3',
-        #'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
 
@@ -125,11 +125,11 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.0/howto/static-files/
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
-
 STATIC_URL = '/static/'
-STATICFILES_DIR=[
+STATICFILES_DIRS=[
     STATIC_DIR,
 ]
+
 
 
 
