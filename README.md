@@ -13,17 +13,17 @@ Our second objective of the project is to provide valid user authentication to a
 
 ### Prerequisites
 
-1.Django
-2.Open cv-2
-3.Python
-4.Sqlite
-5.Pytorch
+1.Django <br />
+2.Open cv-2<br />
+3.Python<br />
+4.Sqlite<br />
+5.Pytorch<br />
 
 ### Installing
 
-1.Python 
-2.pip install django
-3.pip install pytorch
+1.Python <br />
+2.pip install django<br />
+3.pip install pytorch<br />
 
 ## Running the tests
 
