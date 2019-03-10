@@ -1,7 +1,15 @@
-h1 {
-    color : #000000;
-    text-align : center;
-    font-family: "SIMPSON";
+body {
+  background:url("images/background3.jpg"); 
+
+background-position: center;
+
+background-repeat: no-repeat;
+background-size: cover;
+}
+#link{
+   color:#0D41D0;
+  font-size:50px;
+  text-shadow:3px 3px #000000;
 }
 form{
     padding-top:100px;
