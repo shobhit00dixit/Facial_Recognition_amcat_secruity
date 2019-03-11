@@ -54,3 +54,7 @@ Our second objective of the project is to provide valid user authentication to a
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
+
+##WireFrame
+
+[WireFrame](https://github.com/sitanshu-cse10/Facial_Recognition_amcat_secruity/blob/master/docs/Wireframe/wireframe.pdf)
