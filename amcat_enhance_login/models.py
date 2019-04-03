@@ -16,7 +16,7 @@ class amcat_login_with_face_tracker(models.Model):
     first_name = models.CharField(max_length=50)
     middle_name=models.CharField(max_length=50,null=True)
     last_name = models.CharField(max_length=50)
-    model_pic = models.ImageField(upload_to ='pic_folder/')
+    model_pic = models.FileField(upload_to ='pic_folder/')
     course = models.CharField(max_length=10, choices=COURSE_CHOICES, default='btech')
     
 
