@@ -1,10 +1,11 @@
 body {
-  background:url("images/background3.jpg"); 
-
-background-position: center;
-
-background-repeat: no-repeat;
-background-size: cover;
+    background:url("images/background7.jpg"); 
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
 #link{
    color:#0D41D0;
@@ -19,9 +20,16 @@ form{
 
 .appear
 {
-   background-image: url("images/form_registration.jpg");
+   background-image: url("images/test.jfif");
    background-repeat:no-repeat;
    background-size: cover;
 }
+#text{
+	
+	font-size: 24px;
+	color:#120101;
+	text-shadow:1px 1px #000000;
+}
+
 
 
